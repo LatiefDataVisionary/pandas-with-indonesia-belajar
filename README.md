@@ -2,9 +2,9 @@
 
 Saya menyimpan hasil belajar saya disini dari channel youtube Indonesia Belajar pada serie belajar Python Pandas
 
-df_titanic = pd.read_csv('https://github.com/LatiefDataVisionary/pandas-with-indonesia-belajar/blob/main/datasets/titanicfull.csv')
+df_titanic = pd.read_csv('https://raw.githubusercontent.com/LatiefDataVisionary/pandas-with-indonesia-belajar/master/datasets/titanicfull.csv')
 
-df_iris = pd.read_csv('https://github.com/LatiefDataVisionary/pandas-with-indonesia-belajar/blob/main/datasets/Iris.csv')
+df_iris = pd.read_csv('https://raw.githubusercontent.com/LatiefDataVisionary/pandas-with-indonesia-belajar/master/datasets/Iris.csv')
 
 
 data = 'https://raw.githubusercontent.com/LatiefDataVisionary/pandas-with-indonesia-belajar/master/datasets/Iris_error.csv'
